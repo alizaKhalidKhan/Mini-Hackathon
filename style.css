@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: black;
+}
+.navbar{
+    background-color: white !important;
+    margin-top: 10px;
+}
+.navbar-nav .nav-item{
+    color: black !important;
+    font-weight: bold;
+}
+.btn-warning{
+    background-color: white;
+    border-color: black;
+    
+}
+.btn-warning a{
+    color: black;
+}
+.btn-warning:hover {
+    background-color: black;
+    border: 1px solid black;
+}
+.btn-warning a:hover{
+    color: white !important;
+}
+.row{
+    margin: 0 auto;
+}
+.container .text-md-start h1{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 60px !important;
+    font-weight: bold;
+
+}
+.container .text-md-start p{
+    font-family: "Space Grotesk", sans-serif;
+    line-height: 2;
+    font-weight: 400;
+}
+.container{
+    margin-bottom: 100px;
+}
+.container .col p{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 18px;
+    line-height: 2;
+}
+.container .col img{
+    cursor: pointer;
+}
+.container .col a{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 51.04px;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    background: #B9FF66;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.container .accordion{
+    margin-top: 70px;
+    font-family: "Space Grotesk", sans-serif;
+}
+.accord-1{
+    background: #B9FF66;
+}
+.container .form{
+    background: gray !important;
+}
