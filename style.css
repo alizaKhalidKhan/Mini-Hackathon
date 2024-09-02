@@ -75,11 +75,6 @@ body{
 .accord-1{
     background: #B9FF66;
 }
-.container .form{
-    background: gray !important;
-}
-
-
 .forms{
     max-width: 600px;
     margin: 0 auto;
@@ -104,8 +99,6 @@ body{
     min-height: 150px; /* Adequate height for textarea */
     resize: vertical; /* Allow vertical resizing */
 }
-
-
 /* Footer Content */
 footer {
     background-color: black;
