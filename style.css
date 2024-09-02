@@ -102,12 +102,12 @@ h5 {
 p {
     margin: 5px 0;
 }
-  .newsletter-subscription {
+.newsletter-subscription {
     background-color: #333; /* Darker background for the subscription section */
     border-radius: 10px;
     padding: 20px;
-  }
-  footer input[type="email"] {
+}
+footer input[type="email"] {
     padding: 10px;
     border: 1px solid #555; /* Light border for better contrast */
     border-radius: 5px;
@@ -115,9 +115,8 @@ p {
     width: calc(100% - 120px); /* Adjust width to fit alongside button */
     background-color: #222; /* Slightly darker background */
     color: white;
-  }
-  
-  .subscribe-btn {
+}
+.subscribe-btn {
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -125,27 +124,24 @@ p {
     color: white;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
-  }
-  
-  .subscribe-btn:hover {
+}
+.subscribe-btn:hover {
     background-color: #218838; /* Darker green on hover */
     transform: scale(1.05); /* Slightly enlarge the button on hover */
-  }
-  
-  .pages-list ul {
+}
+.pages-list ul {
     list-style: none;
     padding: 0;
-  }
+}
   
-  .pages-list li {
+.pages-list li {
     margin: 5px 0;
-  }
+}
   
-  .footer-link {
+.footer-link {
     color: white;
     text-decoration: none;
-  }
-  
-  .footer-link:hover {
+}
+.footer-link:hover {
     text-decoration: underline;
-  }
+}
